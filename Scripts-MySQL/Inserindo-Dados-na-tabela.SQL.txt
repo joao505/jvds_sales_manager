@@ -1,0 +1,4 @@
+INSERT INTO `gerenciador`.`cliente` (`Nome`, `Data_nacimento`, `Email`, `CPF_CNPJ`, `RG`, 
+`Telefone`, `Endereço`, `data_criação`) VALUES ('jose', '09/06/1999', 'jose@exemplo.com', 
+'495.385.563-05', '987654321', '998765432', 'rua jose jacinto maia N*1359, bairro 
+capacabana', '12/09/2005');
